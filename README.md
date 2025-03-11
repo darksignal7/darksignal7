@@ -2,6 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me <gmail> talhaozturak@gmail.com </gmail> <discord> @vaguesyntax </discord>
+- 📫 How to reach me [gmail] talhaozturak@gmail.com [/gmail] <discord> @vaguesyntax </discord>
 - 😄 Pronouns: he / him
 - ⚡ Fun fact:  I code :))
